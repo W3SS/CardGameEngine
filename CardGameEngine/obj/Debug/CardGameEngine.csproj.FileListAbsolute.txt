@@ -1,0 +1,5 @@
+c:\users\donnie\documents\visual studio 2012\Projects\CardGameEngine\CardGameEngine\obj\Debug\CardGameEngine.csprojResolveAssemblyReference.cache
+c:\users\donnie\documents\visual studio 2012\Projects\CardGameEngine\CardGameEngine\bin\Debug\CardGameEngine.dll
+c:\users\donnie\documents\visual studio 2012\Projects\CardGameEngine\CardGameEngine\bin\Debug\CardGameEngine.pdb
+c:\users\donnie\documents\visual studio 2012\Projects\CardGameEngine\CardGameEngine\obj\Debug\CardGameEngine.dll
+c:\users\donnie\documents\visual studio 2012\Projects\CardGameEngine\CardGameEngine\obj\Debug\CardGameEngine.pdb

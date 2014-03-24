@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardGameEngine", "CardGameEngine\CardGameEngine.csproj", "{6EE5FD0F-F413-4AA5-B991-34CDA123745E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardGamePlayer", "CardGamePlayer\CardGamePlayer.csproj", "{5753D468-E0A4-4944-8D40-DAEB476A5EA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EE5FD0F-F413-4AA5-B991-34CDA123745E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EE5FD0F-F413-4AA5-B991-34CDA123745E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EE5FD0F-F413-4AA5-B991-34CDA123745E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EE5FD0F-F413-4AA5-B991-34CDA123745E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5753D468-E0A4-4944-8D40-DAEB476A5EA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5753D468-E0A4-4944-8D40-DAEB476A5EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5753D468-E0A4-4944-8D40-DAEB476A5EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5753D468-E0A4-4944-8D40-DAEB476A5EA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
